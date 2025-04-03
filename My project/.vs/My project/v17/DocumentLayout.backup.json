@@ -1,0 +1,410 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\assets\\scripts\\ui\\adventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\adventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\work\\u6\\pak\\pvz \u53C1\\my project\\assets\\scripts\\manager\\sunmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\sunmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\assets\\scripts\\manager\\zombiemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\zombiemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\assets\\scripts\\manager\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\assets\\scripts\\extra\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\extra\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\assets\\scripts\\zombies\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zombies\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\assets\\scripts\\manager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\assets\\scripts\\ui\\timestop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\timestop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\assets\\scripts\\extra\\cardtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\extra\\cardtemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\assets\\scripts\\ui\\cardlistui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\cardlistui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\assets\\scripts\\plants\\sunflower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plants\\sunflower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\assets\\scripts\\ui\\toolsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\toolsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\tmp_textinfodebugtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\tmp_textinfodebugtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\PeaBullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PeaBullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\PeaShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PeaShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Plants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Plants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\SunFlower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SunFlower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\WallNut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\WallNut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Start Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Start Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Sun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Sun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\CardTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CardTemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SunManager.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Manager\\SunManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\SunManager.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Manager\\SunManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\SunManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:01:44.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Map.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Map.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Map.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Map.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Map.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:58:05.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZombieManager.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Manager\\ZombieManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\ZombieManager.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Manager\\ZombieManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\ZombieManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwEoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:16:32.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TimeStop.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\UI\\TimeStop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TimeStop.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\UI\\TimeStop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\TimeStop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T08:46:29.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Manager\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\AudioManager.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Manager\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:32:33.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Zombies\\Zombie.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zombies\\Zombie.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Zombies\\Zombie.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zombies\\Zombie.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAA4wHYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:35:56.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Extra\\Tools.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Extra\\Tools.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Extra\\Tools.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Extra\\Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T12:05:07.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adventure.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\UI\\Adventure.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Adventure.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\UI\\Adventure.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Adventure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:03:29.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:03:53.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Config.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Manager\\Config.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\Config.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Manager\\Config.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:20:13.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CardListUI.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\UI\\CardListUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CardListUI.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\UI\\CardListUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CardListUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:54:51.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CardTemplate.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Extra\\CardTemplate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Extra\\CardTemplate.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Extra\\CardTemplate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Extra\\CardTemplate.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAA6wGoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:01:24.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SunFlower.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Plants\\SunFlower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Plants\\SunFlower.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Plants\\SunFlower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Plants\\SunFlower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:12:40Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PeaBullet.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\PeaBullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PeaBullet.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\PeaBullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PeaBullet.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:58:02.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ToolsUI.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\UI\\ToolsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ToolsUI.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\UI\\ToolsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ToolsUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T12:03:52.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TMP_TextInfoDebugTool.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextInfoDebugTool.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextInfoDebugTool.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextInfoDebugTool.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextInfoDebugTool.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAMBTwAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:36:05.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Plants.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Plants.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Plants.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Plants.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Plants.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:57:56.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Start Game.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Start Game.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Start Game.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Start Game.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Start Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:57:53.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Sun.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Sun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sun.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Sun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sun.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:57:48.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Zombie.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zombie.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\Zombie.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zombie.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:02:31.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SunFlower.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\SunFlower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SunFlower.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\SunFlower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SunFlower.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:57:45.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CardTemplate.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\CardTemplate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardTemplate.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\CardTemplate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardTemplate.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAHoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:58:08.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WallNut.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\WallNut.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WallNut.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\WallNut.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WallNut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:57:41.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PeaShooter.cs",
+              "DocumentMoniker": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\PeaShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PeaShooter.cs",
+              "ToolTip": "D:\\work\\U6\\pak\\Pvz \u53C1\\My project\\Assets\\Scripts\\PeaShooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PeaShooter.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:58:00.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
